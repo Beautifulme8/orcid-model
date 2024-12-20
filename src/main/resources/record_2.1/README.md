@@ -75,7 +75,7 @@ Example of a source ORCID iD in 2.1
 - [error-message-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/read_samples/error-2.1.xml)
 - [read external-identifier-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/read_samples/external-identifier-2.1.xml)
 - [write external-identifier-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/write_sample/external-identifier-2.1.xml)
-- [read external-identifiers-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/read_samples/external-identifiers-2.1.xml)
+- [read external-identifiers-2.1.xml](https://github.com/ORCID/orcid-mod el/blob/master/src/main/resources/record_2.1/samples/read_samples/external-identifiers-2.1.xml)
 - [read funding-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/read_samples/funding-2.1.xml)
 - [write funding-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/write_sample/funding-2.1.xml)
 - [read fundings-2.1.xml](https://github.com/ORCID/orcid-model/blob/master/src/main/resources/record_2.1/samples/read_samples/fundings-2.1.xml)
